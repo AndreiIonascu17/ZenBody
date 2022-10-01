@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZenBody
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Projects
+- 👀 I’m interested in IOS App Development
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on IOS Projects
 - 📫 I`m on instagram @andy.ionascu
 
 <!---
