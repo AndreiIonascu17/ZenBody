@@ -5,6 +5,6 @@
 - 📫 I`m on instagram @andy.ionascu
 
 <!---
-ZenBody/ZenBody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hello, you may be the one recruting me so why not check my applications to see my work :)
+Hope you will like them <3 
 --->
