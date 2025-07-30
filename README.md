@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZenBody
-- 👀 I’m interested in IOS App Development
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on IOS Projects
-- 📫 I`m on instagram @andy.ionascu
+- 👋 Hi, I’m @AndreiIonascu17
+- 👀 I’m interested in Penetration Testing
+- 🌱 I’m currently learning how to exploit different applications and systems
+- 💞️ I’m looking to collaborate on Cyber Security Projects
+- 📫 I`m on instagram @andrei.ionascu17
 
 <!---
 Hello, you may be the one recruting me so why not check my applications to see my work :)
